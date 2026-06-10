@@ -1,0 +1,6 @@
+*~
+*.o
+*.d
+tmp_build_dir/
+shock.*.ex
+
